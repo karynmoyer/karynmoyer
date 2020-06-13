@@ -1,0 +1,16 @@
+/* o-block_element--variation -modifier */
+/* if a block, element, or modifier name has multiple words, use camelCase instead of hyphens. */
+
+nav {
+  color: var(--primaryColor);
+  background-color: var(--secondaryColor);
+}
+
+footer {
+}
+
+header {
+}
+
+body {
+}

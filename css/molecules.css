@@ -1,0 +1,17 @@
+/* m-block_element--variation -modifier */
+/* if a block, element, or modifier name has multiple words, use camelCase instead of hyphens. */
+
+article {
+}
+
+div {
+}
+
+section {
+}
+
+ol {
+}
+
+ul {
+}
